@@ -1,0 +1,68 @@
+body{
+    background-color: gray;
+    font-family:'Courier New', Courier, monospace; 
+}
+
+.signup-box{
+    width: 360px;
+    height: 450px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    margin-top: 250px;
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input{
+    width: 320px;
+    padding: 8px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: black solid ;
+    background-color: gray;
+    color: Black;
+    font-size: 18px;
+
+}
+p{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.para-2{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.login-box{
+    width: 360px;
+    height: 300px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+}
